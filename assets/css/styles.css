@@ -101,5 +101,6 @@ body {
 @media (max-width: 768px) {
   .container {
     padding: 30px;
+    min-width: auto;
   }
 }/*# sourceMappingURL=styles.css.map */
